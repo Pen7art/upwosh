@@ -1,2 +1,0 @@
-[2m2024-08-25T13:20:42.261773Z[0m [32m INFO[0m [2mupwosh::middleware::auth_middleware[0m[2m:[0m Headers: {"authorization": "1", "accept": "*/*", "host": "localhost:8000"}
-[2m2024-08-25T13:20:52.040790Z[0m [32m INFO[0m [2mupwosh::middleware::auth_middleware[0m[2m:[0m Headers: {"authorization": "test", "accept": "*/*", "host": "localhost:8000"}
